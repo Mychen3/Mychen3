@@ -10,7 +10,7 @@
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](https://5chenz.com/)
+- 💼 FrontEnd Engineer at [Blog](https://5chenz.com/)
 
 - ❤️ I love writing JypeScript, and Vue 
 
